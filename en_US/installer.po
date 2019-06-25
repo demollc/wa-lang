@@ -11,7 +11,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Poedit-SourceCharset: utf-8\n"
 "X-Poedit-Basepath: .\n"
-"X-Generator: Poedit 1.8.11\n"
+"X-Generator: Poedit 2.0.6\n"
 "Language: en_US\n"
 "X-Poedit-SearchPath-0: .\n"
 "X-Poedit-SearchPath-1: .\n"
@@ -1388,10 +1388,6 @@ msgstr ""
 msgid "Value"
 msgstr ""
 
-#: /wa-apps/installer/templates/actions/settings/Settings.html:197
-msgid "Stretch to fil"
-msgstr ""
-
 #: /wa-apps/installer/templates/actions/settings/Settings.html:241
 msgid "Captcha"
 msgstr ""
@@ -1532,4 +1528,68 @@ msgstr ""
 
 #: /wa-apps/installer/lib/config/logs.php:20
 msgid "Item uninstalled"
+msgstr ""
+
+#: /wa-apps/installer/templates/actions/settings/Settings.html:8
+msgid "System settings"
+msgstr ""
+
+#: /wa-apps/installer/templates/actions/settings/Settings.html:11
+msgid "<a href=\"%s\">Change system settings in Settings app</a>."
+msgstr ""
+
+#: /wa-apps/installer/templates/actions/store/Store.html:8
+msgid "Failed to get the URL of the remote Store"
+msgstr ""
+
+#: /wa-apps/installer/templates/actions/store/Store.html:48
+msgid "Your review"
+msgstr ""
+
+#: /wa-apps/installer/templates/actions/store/Store.html:57
+msgid "What you like or dislike about this product"
+msgstr ""
+
+#: /wa-apps/installer/templates/actions/store/Store.html:59
+msgid "optional"
+msgstr ""
+
+#: /wa-apps/installer/templates/actions/store/Store.html:71
+msgid "Add a review"
+msgstr ""
+
+#: /wa-apps/installer/templates/actions/store/Store.html:84
+msgid "Your review has been added, thank you!"
+msgstr ""
+
+#: /wa-apps/installer/templates/actions/store/Store.html:35
+msgid "Add a rate"
+msgstr ""
+
+#: /wa-apps/installer/templates/actions/store/Store.html:36
+msgid "Add a rate and a review"
+msgstr ""
+
+#: /wa-apps/installer/templates/actions/store/Store.html:38
+msgid "Change rate"
+msgstr ""
+
+#: /wa-apps/installer/templates/actions/store/Store.html:41
+msgid "Change rate and review"
+msgstr ""
+
+#: /wa-apps/installer/templates/actions/store/Store.html:33
+msgid "Do you confirm the installation?"
+msgstr ""
+
+#: /wa-apps/installer/lib/actions/update/installerUpdateManager.action.php:33
+msgid "Unable to install product (developer version is on)"
+msgstr ""
+
+#: /wa-apps/installer/lib/actions/update/installerUpdateManager.action.php:35
+msgid "Unable to update product (developer version is on)"
+msgstr ""
+
+#: /wa-apps/installer/lib/handlers/templates/webasyst.backend_header.announcement.html:20
+msgid "close"
 msgstr ""

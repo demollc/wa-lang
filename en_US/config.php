@@ -6,7 +6,7 @@ return array (
   ),
   'site' => 
   array (
-    'version' => '2.5.5',
+    'version' => '2.5.9',
   ),
   'blog' => 
   array (
@@ -18,11 +18,11 @@ return array (
   ),
   'shop' => 
   array (
-    'version' => '8.3.0',
+    'version' => '8.4.4',
   ),
   'installer' => 
   array (
-    'version' => '1.10.10',
+    'version' => '1.11.14',
   ),
   'developer' => 
   array (
@@ -40,4 +40,8 @@ return array (
   array (
     'version' => '1.4.0',
   ),
+  'hub' =>
+  array(
+  'version' => '1.2.4'
+  )
 );
