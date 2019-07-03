@@ -1,0 +1,995 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:8
+msgid "Export"
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:9
+msgid "Import"
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:12
+msgid "Select locale to edit"
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:19
+msgid "Reload file"
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:21
+#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:28
+#: /wa-apps/mylang/templates/actions/shop/ShopDefault.html:26
+msgid "Loading..."
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:23
+msgid "Compile"
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:24
+msgid "Translate empty(Yandex)"
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:33
+#: /wa-apps/mylang/templates/actions/shop/ShopFeatures.html:53
+#: /wa-apps/mylang/templates/actions/shop/ShopFeature.html:40
+#: /wa-apps/mylang/templates/actions/shop/ShopServices.html:65
+#: /wa-apps/mylang/templates/actions/shop/ShopTags.html:24
+#: /wa-apps/mylang/templates/actions/shop/ShopStocks.html:39
+#: /wa-apps/mylang/templates/actions/contacts/Contacts.html:27
+#: /wa-apps/mylang/templates/actions/settings/Settings.html:58
+msgid "Save"
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:35
+#: /wa-apps/mylang/templates/actions/shop/ShopFeatures.html:55
+#: /wa-apps/mylang/templates/actions/shop/ShopFeature.html:42
+#: /wa-apps/mylang/templates/actions/shop/ShopServices.html:67
+#: /wa-apps/mylang/templates/actions/shop/ShopTags.html:26
+#: /wa-apps/mylang/templates/actions/shop/ShopStocks.html:41
+#: /wa-apps/mylang/templates/actions/contacts/Contacts.html:29
+msgid "Saved"
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:36
+#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:120
+#: /wa-apps/mylang/templates/actions/shop/ShopFeatures.html:56
+msgid "Error"
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:38
+msgid "prev"
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:39
+msgid "next"
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:56
+msgid "PO-file for locale - "
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:60
+msgid "App doesn't support additional locales."
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:67
+#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:91
+#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:121
+msgid "Close"
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:79
+msgid "File to upload should have *.po extension and been created with poedit or other tools."
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:83
+msgid "Select locale to upload"
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:91
+msgid "Upload"
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:91
+#: /wa-apps/mylang/templates/actions/settings/Settings.html:80
+#: /wa-apps/mylang/templates/actions/settings/Settings.html:90
+#: /wa-apps/mylang/templates/actions/settings/Settings.html:115
+msgid "or"
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:106
+msgid "Generate mo-file containing all translated strings."
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:107
+msgid "Generate"
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:109
+msgid "Rollback to first original mo-file. May contain partial translation."
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:110
+msgid "Rollback"
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:112
+msgid "Scan product to get new strings to translate for all locales."
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:113
+msgid "Scan new"
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:119
+msgid "Completed"
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:203
+msgid "Plural form"
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:251
+msgid "Choose strings locale"
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/shop/ShopCheckout.html:2
+#: /wa-apps/mylang/templates/actions/shop/ShopDefault.html:18
+msgid "Checkout"
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/shop/ShopCheckout.html:5
+msgid "You have custom steps names available only for 1 language:"
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/shop/ShopCheckout.html:11
+#: /wa-apps/mylang/templates/actions/shop/ShopCheckout.html:28
+msgid "Use default"
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/shop/ShopCheckout.html:12
+#: /wa-apps/mylang/templates/actions/shop/ShopCheckout.html:29
+msgid "Names will be changed to use system translations."
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/shop/ShopCheckout.html:19
+msgid "You have custom fields names available only for 1 language:"
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/shop/ShopCheckout.html:23
+msgid "change"
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/shop/ShopCheckout.html:33
+msgid "You have default checkout settings and all fields use system translations."
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/shop/ShopFeatures.html:4
+#: /wa-apps/mylang/templates/actions/shop/ShopServices.html:32
+msgid "Back"
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/shop/ShopFeatures.html:4
+#: /wa-apps/mylang/templates/actions/shop/ShopFeatures.html:6
+#: /wa-apps/mylang/templates/actions/shop/ShopDefault.html:6
+msgid "Features"
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/shop/ShopFeatures.html:13
+#: /wa-apps/mylang/templates/actions/shop/ShopFeature.html:12
+msgid "Feature name"
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/shop/ShopFeatures.html:22
+#: /wa-apps/mylang/templates/actions/shop/ShopFeature.html:26
+msgid "Value"
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/shop/ShopFeature.html:22
+msgid "Save the main value beforehand, to translate it."
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/shop/ShopServices.html:2
+msgid "Services list is empty. Add <a href=\"{$wa_backend_url}shop/?action=products#/services/\">new</a> to translate it."
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/shop/ShopServices.html:6
+#: /wa-apps/mylang/templates/actions/shop/ShopDefault.html:15
+msgid "Services"
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/shop/ShopServices.html:9
+#: /wa-apps/mylang/templates/actions/shop/ShopServices.html:38
+msgid "Service name"
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/shop/ShopServices.html:32
+msgid "Service"
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/shop/ShopServices.html:32
+msgid "Noname"
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/shop/ShopTags.html:2
+#: /wa-apps/mylang/templates/actions/shop/ShopDefault.html:9
+msgid "Tags"
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/shop/ShopTags.html:6
+msgid "Tag name"
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/shop/ShopStocks.html:2
+msgid "Stocks list is empty. Add <a href=\"{$wa_backend_url}shop/?action=settings#/stock/\">new stock</a> to translate it."
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/shop/ShopStocks.html:5
+#: /wa-apps/mylang/templates/actions/shop/ShopDefault.html:12
+msgid "Stocks"
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/shop/ShopStocks.html:9
+msgid "Stock name"
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/contacts/Contacts.html:1
+#: /wa-apps/mylang/templates/actions/contacts/Contacts.html:6
+msgid "Contact fields"
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/settings/Settings.html:6
+msgid "General settings"
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/settings/Settings.html:9
+msgid "Selector"
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/settings/Settings.html:18
+#: /wa-apps/mylang/templates/actions/settings/SettingsSelector.html:52
+#: /wa-apps/mylang/templates/layouts/Backend.html:39
+msgid "Settings"
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/settings/Settings.html:26
+msgid "Domains"
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/settings/Settings.html:35
+msgid "Available locales"
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/settings/Settings.html:43
+msgid "Select additional locales"
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/settings/Settings.html:44
+msgid "Add new locale"
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/settings/Settings.html:49
+msgid "Main language"
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/settings/Settings.html:74
+msgid "New locale"
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/settings/Settings.html:78
+#: /wa-apps/mylang/js/mylang.js:223
+#: /wa-apps/mylang/lib/handlers/site.backend_page_edit.handler.php:14
+#: /wa-apps/mylang/lib/handlers/blog.backend_blog_edit.handler.php:14
+#: /wa-apps/mylang/lib/handlers/blog.backend_page_edit.handler.php:14
+#: /wa-apps/mylang/lib/handlers/blog.backend_post_edit.handler.php:13
+#: /wa-apps/mylang/lib/handlers/shop.backend_page_edit.handler.php:14
+msgid "Locale"
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/settings/Settings.html:90
+msgid "Add"
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/settings/Settings.html:90
+#: /wa-apps/mylang/templates/actions/settings/Settings.html:115
+msgid "close"
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/settings/Settings.html:103
+msgid "Delete locale"
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/settings/Settings.html:115
+msgid "Delete"
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/settings/Settings.html:141
+msgid "All data with locale %s will be cleared. Are you sure?"
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/settings/Settings.html:151
+#: /wa-apps/mylang/lib/actions/backend/mylangSettingsSave.controller.php:42
+msgid "Empty value"
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/settings/selector3.html:193
+msgid "Customize Your Shopping Experience!"
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/settings/selector3.html:196
+msgid "Please select the destination country, language, and currency you prefer."
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/settings/selector3.html:201
+msgid "Select the Destination"
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/settings/selector3.html:216
+msgid "Select Your Language"
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/settings/selector3.html:231
+msgid "Select Your Currency"
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/settings/selector3.html:247
+msgid "Available Shipping Methods"
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/settings/selector3.html:254
+msgid "Available Payment Methods"
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/settings/selector3.html:262
+msgid "Save Preferences"
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/settings/selector.html:2
+msgid "Change language"
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/settings/SettingsSelector.html:16
+msgid "Selector settings"
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/settings/SettingsSelector.html:19
+msgid "Redirects"
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/settings/SettingsSelector.html:22
+msgid "New rule"
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/settings/SettingsSelector.html:55
+msgid "Remove"
+msgstr ""
+
+#: /wa-apps/mylang/templates/layouts/Backend.html:35
+#: /wa-apps/mylang/lib/actions/editor/mylangEditor.actions.php:52
+msgid "Plugins"
+msgstr ""
+
+#: /wa-apps/mylang/js/mylang_backend.js:223
+msgid "Locale is not selected."
+msgstr ""
+
+#: /wa-apps/mylang/js/mylang_backend.js:227
+msgid "File is not selected."
+msgstr ""
+
+#: /wa-apps/mylang/js/mylang.js:56
+#: /wa-apps/mylang/lib/handlers/shop.backend_product.handler.php:18
+msgid "All"
+msgstr ""
+
+#: /wa-apps/mylang/js/mylang.js:73
+msgid "Translate"
+msgstr ""
+
+#: /wa-apps/mylang/js/mylang.js:112
+#: /wa-apps/mylang/js/mylang.js:159
+#: /wa-apps/mylang/lib/handlers/shop.backend_product.handler.php:20
+msgid "Description"
+msgstr ""
+
+#: /wa-apps/mylang/js/mylang.js:223
+#: /wa-apps/mylang/lib/classes/mylangHelper.class.php:149
+msgid "Everyone"
+msgstr ""
+
+#: /wa-apps/mylang/lib/handlers/shop.backend_product.handler.php:19
+msgid "None"
+msgstr ""
+
+#: /wa-apps/mylang/lib/handlers/shop.backend_product.handler.php:21
+msgid "You can translate tags in"
+msgstr ""
+
+#: /wa-apps/mylang/lib/handlers/shop.backend_product.handler.php:22
+msgid "Mylang app"
+msgstr ""
+
+#: /wa-apps/mylang/lib/actions/backend/mylangSettingsSave.controller.php:8
+#: /wa-apps/mylang/lib/actions/backend/mylangSettings.action.php:8
+msgid "Access denied"
+msgstr ""
+
+#: /wa-apps/mylang/lib/actions/editor/mylangEditorjs.actions.php:36
+msgid "MO-file restored"
+msgstr ""
+
+#: /wa-apps/mylang/lib/actions/editor/mylangEditorjs.actions.php:38
+msgid "No backup MO-file"
+msgstr ""
+
+#: /wa-apps/mylang/lib/actions/editor/mylangEditorjs.actions.php:48
+#: /wa-apps/mylang/lib/actions/editor/mylangEditorjs.actions.php:99
+#: /wa-apps/mylang/lib/actions/editor/mylangEditorjs.actions.php:171
+msgid "Input data error"
+msgstr ""
+
+#: /wa-apps/mylang/lib/actions/editor/mylangEditorjs.actions.php:68
+msgid "Input file error"
+msgstr ""
+
+#: /wa-apps/mylang/lib/actions/editor/mylangEditorjs.actions.php:77
+msgid "Input file content error"
+msgstr ""
+
+#: /wa-apps/mylang/lib/actions/editor/mylangEditorjs.actions.php:87
+msgid "Previous file content error"
+msgstr ""
+
+#: /wa-apps/mylang/lib/actions/editor/mylangEditorjs.actions.php:122
+msgid "File not found."
+msgstr ""
+
+#: /wa-apps/mylang/lib/actions/editor/mylangEditorjs.actions.php:174
+msgid "Request strings error"
+msgstr ""
+
+#: /wa-apps/mylang/lib/layouts/mylangBackend.layout.php:19
+msgid "Editor"
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:24
+msgid "Translate empty"
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:26
+msgid "Yandex Translate"
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:27
+msgid "Google Translate"
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/editor/EditorSidebar.html:18
+#: /wa-apps/mylang/lib/actions/editor/mylangEditor.actions.php:77
+msgid "Payment"
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/editor/EditorSidebar.html:28
+#: /wa-apps/mylang/lib/actions/editor/mylangEditor.actions.php:73
+msgid "Shipping"
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/settings/Settings.html:57
+msgid "Yandex API key"
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/settings/Settings.html:61
+msgid "Free < 10 millions chars per month. More info..."
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/settings/Settings.html:66
+msgid "Google API key"
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/settings/Settings.html:70
+#: /wa-apps/mylang/templates/actions/settings/Settings.html:79
+msgid "Free trial. More info..."
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/settings/Settings.html:75
+msgid "Microsoft API key"
+msgstr ""
+
+#: /wa-apps/mylang/lib/actions/editor/mylangEditorjs.actions.php:298
+msgid "Api error. Check the token key and quota."
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/settings/Settings.html:61
+msgid "https://tech.yandex.com/translate/"
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:28
+msgid "Microsoft Translate"
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:23
+msgid "Actions"
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:205
+msgid "System keys"
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/settings/Settings.html:112
+#: /wa-apps/mylang/templates/actions/settings/SettingsGetlocale.html:12
+msgid "Currency"
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/settings/Settings.html:118
+#: /wa-apps/mylang/templates/actions/settings/SettingsGetlocale.html:18
+msgid "Original"
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/settings/Settings.html:120
+#: /wa-apps/mylang/templates/actions/settings/Settings.html:127
+#: /wa-apps/mylang/templates/actions/settings/SettingsGetlocale.html:20
+#: /wa-apps/mylang/templates/actions/settings/SettingsGetlocale.html:27
+msgid "Name:"
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/settings/Settings.html:121
+#: /wa-apps/mylang/templates/actions/settings/Settings.html:128
+#: /wa-apps/mylang/templates/actions/settings/SettingsGetlocale.html:21
+#: /wa-apps/mylang/templates/actions/settings/SettingsGetlocale.html:28
+msgid "Region:"
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/settings/Settings.html:125
+#: /wa-apps/mylang/templates/actions/settings/SettingsGetlocale.html:25
+msgid "English"
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/settings/Settings.html:132
+#: /wa-apps/mylang/templates/actions/settings/SettingsGetlocale.html:32
+msgid "Thousands sep"
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/settings/Settings.html:135
+#: /wa-apps/mylang/templates/actions/settings/SettingsGetlocale.html:35
+msgid "Usually space or comma"
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/settings/Settings.html:139
+#: /wa-apps/mylang/templates/actions/settings/SettingsGetlocale.html:39
+msgid "Decimal point"
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/settings/Settings.html:142
+#: /wa-apps/mylang/templates/actions/settings/SettingsGetlocale.html:42
+msgid "Usually full stop or comma"
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/settings/Settings.html:146
+#: /wa-apps/mylang/templates/actions/settings/SettingsGetlocale.html:46
+msgid "Fractional digits"
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/settings/Settings.html:152
+#: /wa-apps/mylang/templates/actions/settings/SettingsGetlocale.html:52
+msgid "First day of week"
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/settings/SettingsGetlocale.html:8
+msgid "Edit locale"
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/settings/SettingsGetlocale.html:64
+msgid "Update"
+msgstr ""
+
+#: /wa-apps/mylang/lib/actions/backend/mylangSettings.action.php:24
+#: /wa-apps/mylang/lib/actions/backend/mylangSettings.actions.php:21
+msgid "Select currency"
+msgstr ""
+
+#: /wa-apps/mylang/lib/actions/editor/mylangEditorjs.actions.php:153
+msgid "Empty filename."
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/settings/SettingsGetlocale.html:32
+msgid "Thousands separator"
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/settings/Settings.html:41
+#: /wa-apps/mylang/templates/actions/settings/SettingsGetlocale.html:61
+msgid "This locale is not installed on the server."
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/settings/SettingsGetlocale.html:61
+msgid "Some transalted strings may display incorrect."
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/shop/ShopSettings.html:2
+msgid "Store settings"
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/shop/ShopSettings.html:9
+msgid "Search scope"
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/shop/ShopSettings.html:12
+msgid "Use full text search."
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/shop/ShopSettings.html:13
+msgid "By default search is using translated strings. Check option to use full text search."
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/shop/ShopPromos.html:2
+msgid "Promos list is empty. Add <a href=\"{$wa_backend_url}shop/?action=products#/promos/\">new</a> to translate it."
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/shop/ShopPromos.html:7
+#: /wa-apps/mylang/templates/actions/shop/ShopDefault.html:21
+msgid "Promos"
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/shop/ShopPromos.html:10
+#: /wa-apps/mylang/templates/actions/shop/ShopPromos.html:33
+msgid "Promo title"
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/shop/ShopPromos.html:27
+msgid "Promo"
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/shop/ShopPromos.html:44
+msgid "Promo text"
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/shop/ShopDefault.html:24
+#: /wa-apps/mylang/templates/actions/shop/ShopThemes.html:4
+#: /wa-apps/mylang/templates/actions/shop/ShopThemes.html:6
+#: /wa-apps/mylang/templates/actions/site/SiteDefault.html:6
+#: /wa-apps/mylang/templates/actions/site/SiteThemes.html:4
+#: /wa-apps/mylang/templates/actions/site/SiteThemes.html:6
+#: /wa-apps/mylang/templates/actions/blog/BlogDefault.html:6
+#: /wa-apps/mylang/templates/actions/blog/BlogThemes.html:4
+#: /wa-apps/mylang/templates/actions/blog/BlogThemes.html:6
+msgid "Themes"
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/shop/ShopThemes.html:15
+#: /wa-apps/mylang/templates/actions/site/SiteThemes.html:15
+#: /wa-apps/mylang/templates/actions/blog/BlogThemes.html:15
+msgid "Theme has no text fields to translate."
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/shop/ShopThemes.html:21
+#: /wa-apps/mylang/templates/actions/site/SiteThemes.html:21
+#: /wa-apps/mylang/templates/actions/blog/BlogThemes.html:21
+msgid "Theme field"
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/shop/ShopThemes.html:41
+#: /wa-apps/mylang/templates/actions/site/SiteThemes.html:41
+#: /wa-apps/mylang/templates/actions/blog/BlogThemes.html:41
+msgid "Theme name"
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/shop/ShopThemes.html:42
+#: /wa-apps/mylang/templates/actions/site/SiteThemes.html:42
+#: /wa-apps/mylang/templates/actions/blog/BlogThemes.html:42
+msgid "Theme ID"
+msgstr ""
+
+#: /wa-apps/mylang/lib/classes/mylangTheme.class.php:1854
+msgid "Theme %s not found"
+msgstr ""
+
+#: /wa-apps/mylang/lib/classes/mylangTheme.class.php:1913
+#: /wa-apps/mylang/lib/classes/mylangTheme.class.php:1952
+msgid "Duplicate theme failed"
+msgstr ""
+
+#: /wa-apps/mylang/lib/classes/mylangTheme.class.php:960
+msgid "Missed theme file(s): %s"
+msgstr ""
+
+#: /wa-apps/mylang/lib/classes/mylangTheme.class.php:1847
+msgid "Invalid theme slug"
+msgstr ""
+
+#: /wa-apps/mylang/lib/classes/mylangTheme.class.php:1870
+msgid "Brush custom theme not available"
+msgstr ""
+
+#: /wa-apps/mylang/lib/classes/mylangTheme.class.php:2110
+msgid "Theme “%s” is for app “%s”, which is not installed in your Webasyst. Install the app, and upload theme once again."
+msgstr ""
+
+#: /wa-apps/mylang/lib/classes/mylangTheme.class.php:2210
+#: /wa-apps/mylang/lib/classes/mylangTheme.class.php:2225
+msgid "http://www.webasyst.com/framework/docs/site/themes/#%s"
+msgstr ""
+
+#: /wa-apps/mylang/lib/classes/mylangTheme.class.php:2211
+msgid "Invalid theme archive structure (%s). <a href=\"%s\" target=\"_blank\">See help</a> for details"
+msgstr ""
+
+#: /wa-apps/mylang/lib/classes/mylangTheme.class.php:2226
+msgid "Failed to extract files from theme archive (%s). <a href=\"%s\" target=\"_blank\">See help</a> for details"
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/shop/ShopAutotranslate.html:3
+#: /wa-apps/mylang/templates/actions/shop/ShopDefault.html:30
+msgid "Autotranslate"
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/shop/ShopAutotranslate.html:9
+msgid "Source language"
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/shop/ShopAutotranslate.html:19
+msgid "Target language"
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/shop/ShopAutotranslate.html:32
+msgid "Providers"
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/shop/ShopAutotranslate.html:36
+msgid "No API key"
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/shop/ShopAutotranslate.html:46
+msgid "Replace old data"
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/shop/ShopAutotranslate.html:48
+msgid "Replace old data with new"
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/shop/ShopAutotranslate.html:49
+msgid "All selected fields will be overwritten with new translations data."
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/shop/ShopAutotranslate.html:54
+msgid "Items to translate"
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/shop/ShopAutotranslate.html:57
+msgid "Categories"
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/shop/ShopAutotranslate.html:57
+msgid "not translated"
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/shop/ShopAutotranslate.html:58
+#: /wa-apps/mylang/templates/actions/shop/ShopAutotranslate.html:63
+msgid "Name"
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/shop/ShopAutotranslate.html:62
+msgid "Products"
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/shop/ShopAutotranslate.html:64
+msgid "Summary"
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/shop/ShopAutotranslate.html:73
+msgid "Start"
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/shop/ShopAutotranslate.html:113
+msgid "Source and target language should be different."
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/shop/ShopAutotranslate.html:117
+msgid "Check at least 1 field to translate."
+msgstr ""
+
+#: /wa-apps/mylang/lib/classes/mylangTranslateYandex.class.php:80
+msgid "Invalid API key"
+msgstr ""
+
+#: /wa-apps/mylang/lib/classes/mylangTranslateYandex.class.php:83
+msgid "Blocked API key"
+msgstr ""
+
+#: /wa-apps/mylang/lib/classes/mylangTranslateYandex.class.php:86
+msgid "Exceeded the daily limit on the amount of translated text"
+msgstr ""
+
+#: /wa-apps/mylang/lib/classes/mylangTranslateYandex.class.php:89
+msgid "Exceeded the maximum text size"
+msgstr ""
+
+#: /wa-apps/mylang/lib/classes/mylangTranslateYandex.class.php:92
+msgid "The text cannot be translated"
+msgstr ""
+
+#: /wa-apps/mylang/lib/classes/mylangTranslateYandex.class.php:95
+msgid "The specified translation direction is not supported"
+msgstr ""
+
+#: /wa-apps/mylang/lib/classes/mylangTranslateYandex.class.php:98
+msgid "Unknown error. See logs."
+msgstr ""
+
+#: /wa-apps/mylang/lib/classes/mylangAutoTranslate.class.php:21
+msgid "Unknown provider"
+msgstr ""
+
+#: /wa-apps/mylang/lib/actions/shop/mylangAutotranslateShop.controller.php:127
+msgid "Translate process is finished."
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:18
+#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:20
+msgid "Search"
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/shop/ShopAutotranslate.html:8
+msgid "Cache files"
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/settings/Settings.html:91
+msgid "Select main provider"
+msgstr ""
+
+#: /wa-apps/mylang/lib/actions/backend/mylangBackendTranslate.controller.php:16
+msgid "Language is empty."
+msgstr ""
+
+#: /wa-apps/mylang/lib/actions/backend/mylangBackendTranslate.controller.php:19
+msgid "Empty provider."
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/editor/EditorSidebar.html:15
+#: /wa-apps/mylang/templates/actions/editor/EditorSidebar.html:45
+msgid "Widgets"
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:139
+msgid "Add custom text"
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:142
+msgid "Plural forms"
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:145
+msgid "Original text"
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:146
+#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:158
+msgid "Key text"
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:147
+msgid "Key text plural"
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:151
+msgid "ID string"
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:153
+msgid "plural"
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:157
+msgid "Usage:"
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:158
+msgid "[&#96;Key text&#96;] or {_w('Key text')} for apps"
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:195
+msgid "Delete string?"
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/settings/SettingsSelector.html:73
+msgid "Available selectors"
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/settings/Settings.html:103
+msgid "Integrate with Menu app"
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/settings/Settings.html:106
+msgid "Translate menu items"
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:121
+msgid "Clean hash strings"
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:123
+msgid "Repair file for md5-hash keys."
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:124
+msgid "Unescape keys"
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:126
+msgid "Repair keys."
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/settings/Settings.html:56
+msgid "Fix locales"
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/settings/Settings.html:56
+msgid "Done"
+msgstr ""
+
+#: ang/wa-apps/mylang/templates/actions/shop/ShopExport.html:8
+msgid "Select locale"
+msgstr ""
+
+#: ang/wa-apps/mylang/templates/actions/shop/ShopExport.html:16
+msgid "Select items"
+msgstr ""
+
+#: ang/wa-apps/mylang/lib/actions/editor/mylangEditor.actions.php:37
+msgid "Custom strings"
+msgstr ""
+
+#: ang/wa-apps/mylang/lib/actions/shop/mylangShopExportRun.controller.php:113
+#: ang/wa-apps/mylang/lib/actions/shop/mylangShopExportRun.controller.php:127
+msgid "Product name"
+msgstr ""
+
+#: ang/wa-apps/mylang/lib/actions/shop/mylangShopExportRun.controller.php:114
+msgid "SKU name"
+msgstr ""
+
+#: ang/wa-apps/mylang/lib/actions/shop/mylangShopExportRun.controller.php:115
+msgid "SKU code"
+msgstr ""
+
+#: ang/wa-apps/mylang/lib/actions/shop/mylangShopExportRun.controller.php:116
+msgid "Price"
+msgstr ""
+
+#: ang/wa-apps/mylang/lib/actions/shop/mylangShopExportRun.controller.php:123
+#: ang/wa-apps/mylang/lib/actions/shop/mylangShopExportRun.controller.php:133
+msgid "Storefront link"
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/shop/ShopDefault.html:21
+#: /wa-apps/mylang/templates/actions/shop/ShopWorkflow.html:3
+msgid "Order states"
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/shop/ShopWorkflow.html:2
+msgid "Set default"
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/shop/ShopWorkflow.html:8
+msgid "State"
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/shop/ShopWorkflow.html:8
+msgid "Order state"
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/site/SiteAuth.html:2
+#: /wa-apps/mylang/templates/actions/site/SiteDefault.html:9
+msgid "Sign up"
+msgstr ""
+
+#: /wa-apps/mylang/templates/actions/site/SiteAuth.html:15
+msgid "You have default auth settings and all fields use system translations."
+msgstr ""
+
+#: /wa-apps/mylang/lib/actions/site/mylangSitejs.actions.php:36
+msgid "File could not be saved due to the insufficient file write permissions for the \"%s\" folder."
+msgstr ""

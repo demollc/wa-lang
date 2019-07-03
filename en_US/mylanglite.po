@@ -1,0 +1,264 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: mylanglite\n"
+"POT-Creation-Date: 2017-01-15 22:31+0300\n"
+"PO-Revision-Date: \n"
+"Last-Translator:  mylanglite\n"
+"Language-Team:  mylanglite\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: en_US\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: .\n"
+
+#: /wa-apps/mylanglite/templates/actions/editor/EditorSidebar.html:18
+#: /wa-apps/mylanglite/lib/actions/editor/mylangliteEditor.actions.php:86
+msgid "Payment"
+msgstr ""
+
+#: /wa-apps/mylanglite/templates/actions/editor/EditorSidebar.html:28
+#: /wa-apps/mylanglite/lib/actions/editor/mylangliteEditor.actions.php:82
+msgid "Shipping"
+msgstr ""
+
+#: /wa-apps/mylanglite/templates/actions/editor/EditorDefault.html:8
+msgid "Export"
+msgstr ""
+
+#: /wa-apps/mylanglite/templates/actions/editor/EditorDefault.html:9
+msgid "Import"
+msgstr ""
+
+#: /wa-apps/mylanglite/templates/actions/editor/EditorDefault.html:12
+msgid "Select locale to edit"
+msgstr ""
+
+#: /wa-apps/mylanglite/templates/actions/editor/EditorDefault.html:19
+msgid "Reload file"
+msgstr ""
+
+#: /wa-apps/mylanglite/templates/actions/editor/EditorDefault.html:21
+#: /wa-apps/mylanglite/templates/actions/editor/EditorDefault.html:27
+msgid "Loading..."
+msgstr ""
+
+#: /wa-apps/mylanglite/templates/actions/editor/EditorDefault.html:23
+msgid "Actions"
+msgstr ""
+
+#: /wa-apps/mylanglite/templates/actions/editor/EditorDefault.html:32
+#: /wa-apps/mylanglite/templates/actions/settings/Settings.html:37
+msgid "Save"
+msgstr ""
+
+#: /wa-apps/mylanglite/templates/actions/editor/EditorDefault.html:34
+msgid "Saved"
+msgstr ""
+
+#: /wa-apps/mylanglite/templates/actions/editor/EditorDefault.html:35
+#: /wa-apps/mylanglite/templates/actions/editor/EditorDefault.html:119
+msgid "Error"
+msgstr ""
+
+#: /wa-apps/mylanglite/templates/actions/editor/EditorDefault.html:37
+msgid "prev"
+msgstr ""
+
+#: /wa-apps/mylanglite/templates/actions/editor/EditorDefault.html:38
+msgid "next"
+msgstr ""
+
+#: /wa-apps/mylanglite/templates/actions/editor/EditorDefault.html:55
+msgid "PO-file for locale - "
+msgstr ""
+
+#: /wa-apps/mylanglite/templates/actions/editor/EditorDefault.html:59
+msgid "App doesn't support additional locales."
+msgstr ""
+
+#: /wa-apps/mylanglite/templates/actions/editor/EditorDefault.html:66
+#: /wa-apps/mylanglite/templates/actions/editor/EditorDefault.html:90
+#: /wa-apps/mylanglite/templates/actions/editor/EditorDefault.html:120
+msgid "Close"
+msgstr ""
+
+#: /wa-apps/mylanglite/templates/actions/editor/EditorDefault.html:78
+msgid "File to upload should have *.po extension and been created with poedit or other tools."
+msgstr ""
+
+#: /wa-apps/mylanglite/templates/actions/editor/EditorDefault.html:82
+msgid "Select locale to upload"
+msgstr ""
+
+#: /wa-apps/mylanglite/templates/actions/editor/EditorDefault.html:90
+msgid "Upload"
+msgstr ""
+
+#: /wa-apps/mylanglite/templates/actions/editor/EditorDefault.html:90
+#: /wa-apps/mylanglite/templates/actions/settings/Settings.html:59
+#: /wa-apps/mylanglite/templates/actions/settings/Settings.html:69
+#: /wa-apps/mylanglite/templates/actions/settings/Settings.html:94
+msgid "or"
+msgstr ""
+
+#: /wa-apps/mylanglite/templates/actions/editor/EditorDefault.html:105
+msgid "Generate mo-file containing all translated strings."
+msgstr ""
+
+#: /wa-apps/mylanglite/templates/actions/editor/EditorDefault.html:106
+msgid "Generate"
+msgstr ""
+
+#: /wa-apps/mylanglite/templates/actions/editor/EditorDefault.html:108
+msgid "Rollback to first original mo-file. May contain partial translation."
+msgstr ""
+
+#: /wa-apps/mylanglite/templates/actions/editor/EditorDefault.html:109
+msgid "Rollback"
+msgstr ""
+
+#: /wa-apps/mylanglite/templates/actions/editor/EditorDefault.html:111
+msgid "Scan product to get new strings to translate for all locales."
+msgstr ""
+
+#: /wa-apps/mylanglite/templates/actions/editor/EditorDefault.html:112
+msgid "Scan new"
+msgstr ""
+
+#: /wa-apps/mylanglite/templates/actions/editor/EditorDefault.html:118
+msgid "Completed"
+msgstr ""
+
+#: /wa-apps/mylanglite/templates/actions/editor/EditorDefault.html:201
+msgid "Plural form"
+msgstr ""
+
+#: /wa-apps/mylanglite/templates/actions/editor/EditorDefault.html:300
+msgid "Choose strings locale"
+msgstr ""
+
+#: /wa-apps/mylanglite/templates/actions/settings/Settings.html:6
+msgid "General settings"
+msgstr ""
+
+#: /wa-apps/mylanglite/templates/actions/settings/Settings.html:15
+#: /wa-apps/mylanglite/templates/layouts/Backend.html:36
+msgid "Settings"
+msgstr ""
+
+#: /wa-apps/mylanglite/templates/actions/settings/Settings.html:22
+msgid "Available locales"
+msgstr ""
+
+#: /wa-apps/mylanglite/templates/actions/settings/Settings.html:30
+msgid "Select additional locales"
+msgstr ""
+
+#: /wa-apps/mylanglite/templates/actions/settings/Settings.html:31
+msgid "Add new locale"
+msgstr ""
+
+#: /wa-apps/mylanglite/templates/actions/settings/Settings.html:53
+msgid "New locale"
+msgstr ""
+
+#: /wa-apps/mylanglite/templates/actions/settings/Settings.html:57
+msgid "Locale"
+msgstr ""
+
+#: /wa-apps/mylanglite/templates/actions/settings/Settings.html:69
+msgid "Add"
+msgstr ""
+
+#: /wa-apps/mylanglite/templates/actions/settings/Settings.html:69
+#: /wa-apps/mylanglite/templates/actions/settings/Settings.html:94
+msgid "close"
+msgstr ""
+
+#: /wa-apps/mylanglite/templates/actions/settings/Settings.html:82
+msgid "Delete locale"
+msgstr ""
+
+#: /wa-apps/mylanglite/templates/actions/settings/Settings.html:94
+msgid "Delete"
+msgstr ""
+
+#: /wa-apps/mylanglite/templates/actions/settings/Settings.html:120
+msgid "All data with locale %s will be cleared. Are you sure?"
+msgstr ""
+
+#: /wa-apps/mylanglite/templates/actions/settings/Settings.html:130
+#: /wa-apps/mylanglite/lib/actions/backend/mylangliteSettingsSave.controller.php:34
+msgid "Empty value"
+msgstr ""
+
+#: /wa-apps/mylanglite/templates/layouts/Backend.html:33
+#: /wa-apps/mylanglite/lib/layouts/mylangliteBackend.layout.php:9
+msgid "Editor"
+msgstr ""
+
+#: /wa-apps/mylanglite/js/mylanglite_backend.js:183
+msgid "Locale is not selected."
+msgstr ""
+
+#: /wa-apps/mylanglite/js/mylanglite_backend.js:187
+msgid "File is not selected."
+msgstr ""
+
+#: /wa-apps/mylanglite/lib/actions/editor/mylangliteEditor.actions.php:99
+msgid "Plugins"
+msgstr ""
+
+#: /wa-apps/mylanglite/lib/actions/editor/mylangliteEditorjs.actions.php:38
+msgid "MO-file restored"
+msgstr ""
+
+#: /wa-apps/mylanglite/lib/actions/editor/mylangliteEditorjs.actions.php:40
+msgid "No backup MO-file"
+msgstr ""
+
+#: /wa-apps/mylanglite/lib/actions/editor/mylangliteEditorjs.actions.php:50
+#: /wa-apps/mylanglite/lib/actions/editor/mylangliteEditorjs.actions.php:98
+#: /wa-apps/mylanglite/lib/actions/editor/mylangliteEditorjs.actions.php:196
+msgid "Input data error"
+msgstr ""
+
+#: /wa-apps/mylanglite/lib/actions/editor/mylangliteEditorjs.actions.php:67
+msgid "Input file error"
+msgstr ""
+
+#: /wa-apps/mylanglite/lib/actions/editor/mylangliteEditorjs.actions.php:76
+msgid "Input file content error"
+msgstr ""
+
+#: /wa-apps/mylanglite/lib/actions/editor/mylangliteEditorjs.actions.php:86
+msgid "Previous file content error"
+msgstr ""
+
+#: /wa-apps/mylanglite/lib/actions/editor/mylangliteEditorjs.actions.php:135
+msgid "File not found."
+msgstr ""
+
+#: /wa-apps/mylanglite/lib/actions/editor/mylangliteEditorjs.actions.php:199
+msgid "Request strings error"
+msgstr ""
+
+#: /wa-apps/mylanglite/lib/actions/editor/mylangliteEditorjs.actions.php:315
+msgid "Api error. Check the token key and quota."
+msgstr ""
+
+#: /wa-apps/mylanglite/lib/actions/backend/mylangliteSettings.action.php:8
+#: /wa-apps/mylanglite/lib/actions/backend/mylangliteSettingsSave.controller.php:8
+msgid "Access denied"
+msgstr ""
+
+#: /wa-apps/mylanglite/templates/actions/editor/EditorDefault.html:196
+msgid "System keys"
+msgstr ""
+
+#: /wa-apps/mylanglite/lib/actions/editor/mylangliteEditorjs.actions.php:153
+msgid "Empty filename."
+msgstr ""
